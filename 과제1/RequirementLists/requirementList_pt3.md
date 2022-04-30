@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # requirementList_pt3
 
+=======
+>>>>>>> 3a1268a287f5c1607539403e8259e3b8e6ecaaaf
 ## Functional requirements
 
 ### 구매 내역 조회
@@ -30,4 +33,8 @@ output : 시스템이 거래내역 자동 삭제
 
 ### 이메일 공지 기능
 
+<<<<<<< HEAD
 output :  판매 및 구매 통계 정보를 이메일로 공지(매월 말일)
+=======
+output :  판매 및 구매 통계 정보를 이메일로 공지(매월 말일)
+>>>>>>> 3a1268a287f5c1607539403e8259e3b8e6ecaaaf
