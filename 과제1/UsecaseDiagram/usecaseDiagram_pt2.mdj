@@ -157,7 +157,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 229,
-											"width": 73.67724609375,
+											"width": 77.9365234375,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -794,9 +794,9 @@
 												"$ref": "AAAAAAGAevOjVS8SvQY="
 											},
 											"font": "Arial;13;1",
-											"left": 287,
+											"left": 287.5,
 											"top": 190.5,
-											"width": 114,
+											"width": 117,
 											"height": 13,
 											"text": "상품 상세 정보 출력"
 										},
@@ -829,9 +829,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 282,
+									"left": 282.5,
 									"top": 183.5,
-									"width": 124.83544921875,
+									"width": 127,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAevOjVS8TxLA="
@@ -931,7 +931,7 @@
 							"containerChangeable": true,
 							"left": 256,
 							"top": 168,
-							"width": 176,
+							"width": 180,
 							"height": 57,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAevOjVS8SvQY="
@@ -1740,9 +1740,9 @@
 												"$ref": "AAAAAAGAevR1lDER37c="
 											},
 											"font": "Arial;13;1",
-											"left": 536.5,
+											"left": 537,
 											"top": 102,
-											"width": 140,
+											"width": 143,
 											"height": 13,
 											"text": "평균 구매 만족도로 정렬"
 										},
@@ -1775,9 +1775,9 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 531.5,
+									"left": 532,
 									"top": 95,
-									"width": 150.83544921875,
+									"width": 153,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGAevR1lDESJOI="
@@ -1877,7 +1877,7 @@
 							"containerChangeable": true,
 							"left": 500,
 							"top": 80,
-							"width": 213,
+							"width": 217,
 							"height": 56,
 							"nameCompartment": {
 								"$ref": "AAAAAAGAevR1lDER37c="
@@ -2818,7 +2818,7 @@
 											"font": "Arial;13;0",
 											"left": 77,
 											"top": 677,
-											"width": 73.67724609375,
+											"width": 77.9365234375,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -3267,7 +3267,7 @@
 											"font": "Arial;13;0",
 											"left": 295.5,
 											"top": 502,
-											"width": 77,
+											"width": 77.9365234375,
 											"height": 13,
 											"text": "(from Model)"
 										},
