@@ -1,0 +1,179 @@
+[33mcommit 8c68878ead9bcd221b3839d4393c56dc878f7139[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 96bacb2 c8490b2
+Author: dallae28 <97158957+dallae28@users.noreply.github.com>
+Date:   Tue May 17 10:37:45 2022 +0900
+
+    Merge branch 'main' of https://github.com/bradbrad97/SE
+
+[33mcommit 96bacb2391a81fe27bdad1da4b691d05f09e2cb2[m
+Author: dallae28 <97158957+dallae28@users.noreply.github.com>
+Date:   Tue May 17 10:37:16 2022 +0900
+
+    add requirementListNew
+
+[33mcommit c8490b2389215287ad1953888dba9dfe8937b3ed[m
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Mon May 2 00:24:22 2022 +0900
+
+    usecase Diagram 수정본
+
+[33mcommit 6263266cee5fd6742ffa0b8cc3e651d740e8e486[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sun May 1 22:36:55 2022 +0900
+
+    UI_Design.pptx 수정
+
+[33mcommit cea55626494ee5fe30782b0b853d12b813e805cc[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sun May 1 21:24:16 2022 +0900
+
+    UI_Design.pptx 추가
+
+[33mcommit e94c0f6c00807767ab1a25419a1a6ad4fe5ed28a[m
+Merge: 4ad9624 5b2fa75
+Author: dallae28 <97158957+dallae28@users.noreply.github.com>
+Date:   Sun May 1 15:54:06 2022 +0900
+
+    Merge branch 'main' of https://github.com/bradbrad97/SE
+
+[33mcommit 4ad9624342f69b9f32c04b849dd83f2508d3df98[m
+Author: dallae28 <97158957+dallae28@users.noreply.github.com>
+Date:   Sun May 1 15:44:06 2022 +0900
+
+    최종본
+
+[33mcommit 5b2fa75f5d359e32a4172cf92a584b508f2562ac[m
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Sun May 1 02:22:47 2022 +0900
+
+    use case description 통합본 작성
+
+[33mcommit e0f6e99403dc99440c63f707582bd66ee8a78166[m
+Merge: bb7405c 6a2c9ac
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Sun May 1 01:41:00 2022 +0900
+
+    Merge branch 'main' of https://github.com/bradbrad97/SE into main
+
+[33mcommit 6a2c9aca1f55fb2cf1225fbf0476c3e95d291b60[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sun May 1 01:38:51 2022 +0900
+
+    useCase Description part3 추가
+
+[33mcommit bb7405c7c147ecdd7fc329ec5d87940b3e8d75e2[m
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Sun May 1 01:37:44 2022 +0900
+
+    use case description part2 작성
+
+[33mcommit b78d120434e85b0b9712f7f9d7db16c9d8271b37[m
+Merge: 93b8a3f 3a1268a
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sun May 1 01:36:09 2022 +0900
+
+    수정
+
+[33mcommit 93b8a3f1dfc121aa0c02748b29efdf2c2950e9dd[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sun May 1 01:34:03 2022 +0900
+
+    requirementList part3 수정
+
+[33mcommit 3a1268a287f5c1607539403e8259e3b8e6ecaaaf[m
+Author: rladudals1201 <104131444+rladudals1201@users.noreply.github.com>
+Date:   Sun May 1 00:44:36 2022 +0900
+
+    part3 requirementList 수정
+
+[33mcommit d51e475b7491aba4c2702f8b4be7d96bf8364de8[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sun May 1 00:20:55 2022 +0900
+
+    usecaseDiagram_pt3.mdj 추가
+
+[33mcommit b309de738970c43d000cd98502a05538c818bae0[m
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Sun May 1 00:13:36 2022 +0900
+
+    use case diagram pt2작성 및 pt1 파일명 변경
+
+[33mcommit 04e6bfe2281f6510b637a175677461003c15bf33[m
+Author: dallae28 <97158957+dallae28@users.noreply.github.com>
+Date:   Sat Apr 30 20:18:44 2022 +0900
+
+    수정
+
+[33mcommit 1599ca6075393984a338c2bde34c5cda32ce9397[m
+Author: dallae28 <97158957+dallae28@users.noreply.github.com>
+Date:   Sat Apr 30 20:12:17 2022 +0900
+
+    수정
+
+[33mcommit 37ae8e785b7dbf1b0bec641b8c5e104d078495f6[m
+Merge: 7a70e61 ba885ab
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sat Apr 30 14:23:08 2022 +0900
+
+    수정
+
+[33mcommit ba885aba343ef44895cfa2d482648b64d2d7563e[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sat Apr 30 14:19:40 2022 +0900
+
+    actordescription requirement part3 수정
+
+[33mcommit 7a70e610bbe33660d130f30977ee8b455d04e6ba[m
+Merge: 01be27e 042334f
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Mon Apr 25 17:56:02 2022 +0900
+
+    Merge branch 'main' of https://github.com/bradbrad97/SE into main
+
+[33mcommit 01be27e38ef5341748389201f7fc1062a477e2fb[m
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Mon Apr 25 17:53:51 2022 +0900
+
+    ActorDescirption pt2 수정
+
+[33mcommit 042334fd4c38d06836f5f57aac41db6d69d9e38a[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Mon Apr 25 17:24:15 2022 +0900
+
+    description part3 수정
+
+[33mcommit 43d0e9598e6cb105922c6a6c5ae30c982376abee[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Mon Apr 25 17:15:03 2022 +0900
+
+    actorDescription part3 추가
+
+[33mcommit 6fb68f71a8b07aa6a1b5c1722ea59c2c519ab915[m
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Sun Apr 24 23:49:27 2022 +0900
+
+    actorDescription_pt2 추가
+
+[33mcommit 1395f7beacbc6d6c4b5e3911437a1fd3191498a7[m
+Author: bradbrad97 <taehyun0121@naver.com>
+Date:   Sun Apr 24 22:54:46 2022 +0900
+
+    requirementList part2 작성
+
+[33mcommit 71c5e5ee5d2eb737226ca5a721fb284a01ff1780[m
+Author: rladudals1201 <104131444+rladudals1201@users.noreply.github.com>
+Date:   Sun Apr 24 11:26:56 2022 +0900
+
+    Delete requirement list.md
+
+[33mcommit 24cf65a56e7177cf30b2c4ee8be19e326ed31111[m
+Author: rladudals1201 <kimyoungmin1201@gmail.com>
+Date:   Sun Apr 24 09:26:12 2022 +0900
+
+    김영민 requirement list 업로드
+
+[33mcommit 929d8cfa526d248753e3bb44876ec92231da782e[m
+Author: bradbrad97 <94661824+bradbrad97@users.noreply.github.com>
+Date:   Sat Apr 23 22:26:58 2022 +0900
+
+    Create README.md
