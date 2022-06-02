@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\과제1",
-    "\\과제1\\ActorDescriptions",
-    "\\과제1\\RequirementLists",
-    "\\과제1\\UsecaseDescription",
-    "\\과제1\\UsecaseDiagram",
+    "\\.git",
+    "\\.git\\info",
+    "\\.git\\refs",
     "\\과제2",
-    "\\과제2\\Communication_Diagram"
+    "\\과제2\\new",
+    "\\과제3",
+    "\\과제3\\part2",
+    "\\과제3\\part2\\소스파일",
+    "\\과제3\\part2\\헤더파일"
   ],
-  "SelectedNode": "\\과제2\\Communication_Diagram\\part2.mdj",
+  "SelectedNode": "\\과제3\\part2\\소스파일\\PurchaseList.cpp",
   "PreviewInSolutionExplorer": false
 }
